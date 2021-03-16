@@ -1,6 +1,6 @@
 # Authorization Form
 
-* CodeCademy Project for understanding React Components. *
+* CodeCademy's Project for understanding React Components. *
 
 This is a simple authorization form built using React.js, where the main focus is to hide the contact information behind an authorization layer.
 
